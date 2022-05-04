@@ -6,10 +6,20 @@
 
 ## Admin Bill 
 - Customer login
-- Add Record/Delete Record/Update Record/Show Record/Exit
+- Add Record
+- Delete Record
+- Update Record
+- Show Record
+- Exit
 
 ## User Bill
--Fetch Bill/Bill Paid/Exit
+- Fetch Bill
+- Bill Paid
+- Exit
+
+# Dependencies for Testing:
+- JUnit
+- Maven
 
 # Technologies used:
 - Java
@@ -17,3 +27,8 @@
 - JDBC
 - MySQL
 - JUnit  
+
+# Tools used:
+- Eclipse
+- JDK 1.8
+- MySQL
