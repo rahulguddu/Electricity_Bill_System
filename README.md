@@ -17,16 +17,17 @@
 - Bill Paid
 - Exit
 
-# Dependencies for Testing:
-- JUnit
-- Maven
-
 # Technologies used:
 - Java
 - Maven
 - JDBC
 - MySQL
 - JUnit  
+
+
+# Dependencies for Testing:
+- JUnit
+- Maven
 
 # Tools used:
 - Eclipse
