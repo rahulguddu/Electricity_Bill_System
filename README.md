@@ -4,3 +4,13 @@
 
 # Technologies used:
 - Java
+- Maven
+- JDBC
+- MySQL
+- JUnit  
+
+
+# Contains Two Modules 
+## Admin Bill
+
+## User Bill
